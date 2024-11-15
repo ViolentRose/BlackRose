@@ -7,14 +7,14 @@
 888    888 888 .d888888 888      888888K  888 T88b  888  888 "Y8888b. 88888888
 888   d88P 888 888  888 Y88b.    888 "88b 888  T88b Y88..88P      X88 Y8b.    
 8888888P"  888 "Y888888  "Y8888P 888  888 888   T88b "Y88P"   88888P'  "Y8888 
-Join our Discord Link: https://discord.gg/qWpdwV8Hfq
+Join our Discord Link: Soon, Because I don't know how to make a good server :( HELP IF U CAN @Iwillrise
 --]]
 
 --WHAT ARE YOU DOING HERE!!???
 local placeId = game.PlaceId
 
 local gameData = {
-    -- King Legacy (LAST UPDATED: 11 NOV 2024)
+    -- King Legacy (LAST UPDATED: 16 NOV 2024)
     [4520749081] = {name = "King Legacy - First Sea", url = "https://raw.githubusercontent.com/ViolentRose/BlackRose/main/BlackRoseKL.lua"},
     [6381829480] = {name = "King Legacy - Second Sea", url = "https://raw.githubusercontent.com/ViolentRose/BlackRose/main/BlackRoseKL.lua"},
     [15759515082] = {name = "King Legacy - Third Sea", url = "https://raw.githubusercontent.com/ViolentRose/BlackRose/main/BlackRoseKL.lua"},
