@@ -14,7 +14,7 @@ Join our Discord Link: Soon, Because I don't know how to make a good server :( H
 local placeId = game.PlaceId
 
 local gameData = {
-    -- King Legacy (LAST UPDATED: Nov 20, 2024 / 10:09PM )
+    -- King Legacy (LAST UPDATED: Nov 30, 2024 / 1:02AM )
     [4520749081] = {name = "King Legacy - First Sea", url = "https://raw.githubusercontent.com/ViolentRose/BlackRose/main/BlackRoseKL.lua"},
     [6381829480] = {name = "King Legacy - Second Sea", url = "https://raw.githubusercontent.com/ViolentRose/BlackRose/main/BlackRoseKL.lua"},
     [15759515082] = {name = "King Legacy - Third Sea", url = "https://raw.githubusercontent.com/ViolentRose/BlackRose/main/BlackRoseKL.lua"},
