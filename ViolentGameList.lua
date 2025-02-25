@@ -14,14 +14,14 @@ Join our Discord Link: Soon, Because I don't know how to make a good server :( H
 local placeId = game.PlaceId
 
 local gameData = {
-    -- King Legacy (LAST UPDATED: DEC 10, 2024 / 9:42 PM )
+    -- King Legacy (LAST UPDATED: FEB25, 2025 / 4:42 PM )
     [4520749081] = {name = "King Legacy - First Sea", url = "https://raw.githubusercontent.com/ViolentRose/BlackRose/main/BlackRoseKL.lua"},
     [6381829480] = {name = "King Legacy - Second Sea", url = "https://raw.githubusercontent.com/ViolentRose/BlackRose/main/BlackRoseKL.lua"},
     [15759515082] = {name = "King Legacy - Third Sea", url = "https://raw.githubusercontent.com/ViolentRose/BlackRose/main/BlackRoseKL.lua"},
     [5931540094] = {name = "King Legacy - Golden Arena", url = "https://raw.githubusercontent.com/ViolentRose/BlackRose/main/BlackRoseKL.lua"},
 
-    -- Survive the Killer (COMING SOON)
-    [4580204640] = {name = "Survive the Killer", url = "0000"},
+    -- Survive the Killer (LAST UPDATED: FEB25, 2025 / 4:42 PM )
+    [4580204640] = {name = "Survive the Killer", url = "https://raw.githubusercontent.com/ViolentRose/BlackRose/main/BlackRoseSTK.lua"},
 
     -- Build A Boat For Treasure (COMING SOON)
     [537413528] = {name = "Build A Boat For Treasure", url = "0000"},
