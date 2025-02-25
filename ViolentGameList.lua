@@ -22,6 +22,7 @@ local gameData = {
 
     -- Survive the Killer (LAST UPDATED: FEB25, 2025 / 4:42 PM )
     [4580204640] = {name = "Survive the Killer", url = "https://raw.githubusercontent.com/ViolentRose/BlackRose/main/BlackRoseSTK.lua"},
+    [6739798578] = {name = "Survive the Killer", url = "https://raw.githubusercontent.com/ViolentRose/BlackRose/main/BlackRoseSTK.lua"},
 
     -- Build A Boat For Treasure (COMING SOON)
     [537413528] = {name = "Build A Boat For Treasure", url = "0000"},
